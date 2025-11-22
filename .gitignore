@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.idea/
+venv/
+.env
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.xml
+*.iml
